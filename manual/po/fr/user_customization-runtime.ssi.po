@@ -1,0 +1,1126 @@
+# French translations for live-manual
+# Copyright (C) 2011-2015 Carlos Zuferri <chals@altorricon.com>
+# This file is distributed under the same license as the live-manual package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: live-manual 4.0~a4-1\n"
+"POT-Creation-Date: 2015-04-08 19:20+0200\n"
+"PO-Revision-Date: 2014-06-03 22:37+0100\n"
+"Last-Translator: Carlos Zuferri <chals@altorricon.com>\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: en/about_manual.ssi:92 en/about_manual.ssi:100 en/about_manual.ssi:108
+#: en/about_manual.ssi:116 en/about_manual.ssi:124 en/about_manual.ssi:132
+#: en/appendix_style-guide.ssi:124 en/appendix_style-guide.ssi:134
+#: en/appendix_style-guide.ssi:144 en/appendix_style-guide.ssi:154
+#: en/appendix_style-guide.ssi:164 en/appendix_style-guide.ssi:177
+#: en/examples.ssi:14 en/examples.ssi:30 en/examples.ssi:40 en/examples.ssi:54
+#: en/examples.ssi:67 en/examples.ssi:83 en/examples.ssi:93
+#: en/examples.ssi:106 en/examples.ssi:114 en/examples.ssi:124
+#: en/examples.ssi:134 en/examples.ssi:149 en/examples.ssi:157
+#: en/examples.ssi:165 en/examples.ssi:173 en/examples.ssi:189
+#: en/examples.ssi:203 en/examples.ssi:211 en/examples.ssi:219
+#: en/examples.ssi:235 en/examples.ssi:249 en/examples.ssi:257
+#: en/examples.ssi:265 en/examples.ssi:285 en/examples.ssi:293
+#: en/examples.ssi:302 en/examples.ssi:312 en/project_bugs.ssi:62
+#: en/project_coding-style.ssi:30 en/project_coding-style.ssi:40
+#: en/project_coding-style.ssi:53 en/project_coding-style.ssi:63
+#: en/project_coding-style.ssi:94 en/project_coding-style.ssi:102
+#: en/project_coding-style.ssi:112 en/project_coding-style.ssi:123
+#: en/project_contributing.ssi:34 en/project_contributing.ssi:45
+#: en/project_contributing.ssi:59 en/project_contributing.ssi:68
+#: en/project_contributing.ssi:79 en/project_contributing.ssi:87
+#: en/project_git.ssi:8 en/project_git.ssi:16 en/project_git.ssi:24
+#: en/project_git.ssi:34 en/project_git.ssi:44 en/project_git.ssi:56
+#: en/project_procedures.ssi:39 en/project_procedures.ssi:51
+#: en/user_basics.ssi:50 en/user_basics.ssi:58 en/user_basics.ssi:68
+#: en/user_basics.ssi:86 en/user_basics.ssi:100 en/user_basics.ssi:113
+#: en/user_basics.ssi:121 en/user_basics.ssi:159 en/user_basics.ssi:167
+#: en/user_basics.ssi:179 en/user_basics.ssi:190 en/user_basics.ssi:198
+#: en/user_basics.ssi:210 en/user_basics.ssi:218 en/user_basics.ssi:226
+#: en/user_basics.ssi:238 en/user_basics.ssi:250 en/user_basics.ssi:260
+#: en/user_basics.ssi:270 en/user_basics.ssi:288 en/user_basics.ssi:319
+#: en/user_basics.ssi:335 en/user_basics.ssi:343 en/user_basics.ssi:363
+#: en/user_basics.ssi:390 en/user_basics.ssi:406
+#: en/user_customization-binary.ssi:18 en/user_customization-contents.ssi:24
+#: en/user_customization-contents.ssi:33 en/user_customization-contents.ssi:51
+#: en/user_customization-installer.ssi:32
+#: en/user_customization-installer.ssi:44
+#: en/user_customization-packages.ssi:14 en/user_customization-packages.ssi:22
+#: en/user_customization-packages.ssi:40 en/user_customization-packages.ssi:53
+#: en/user_customization-packages.ssi:67 en/user_customization-packages.ssi:95
+#: en/user_customization-packages.ssi:106
+#: en/user_customization-packages.ssi:114
+#: en/user_customization-packages.ssi:138
+#: en/user_customization-packages.ssi:151
+#: en/user_customization-packages.ssi:161
+#: en/user_customization-packages.ssi:171
+#: en/user_customization-packages.ssi:195
+#: en/user_customization-packages.ssi:211
+#: en/user_customization-packages.ssi:290
+#: en/user_customization-packages.ssi:302
+#: en/user_customization-packages.ssi:312
+#: en/user_customization-packages.ssi:326
+#: en/user_customization-packages.ssi:342
+#: en/user_customization-packages.ssi:359 en/user_customization-runtime.ssi:14
+#: en/user_customization-runtime.ssi:26 en/user_customization-runtime.ssi:44
+#: en/user_customization-runtime.ssi:56 en/user_customization-runtime.ssi:75
+#: en/user_customization-runtime.ssi:83 en/user_customization-runtime.ssi:92
+#: en/user_customization-runtime.ssi:121 en/user_customization-runtime.ssi:131
+#: en/user_customization-runtime.ssi:139 en/user_customization-runtime.ssi:148
+#: en/user_customization-runtime.ssi:157 en/user_customization-runtime.ssi:172
+#: en/user_customization-runtime.ssi:202 en/user_customization-runtime.ssi:210
+#: en/user_customization-runtime.ssi:219 en/user_customization-runtime.ssi:229
+#: en/user_customization-runtime.ssi:237 en/user_customization-runtime.ssi:245
+#: en/user_customization-runtime.ssi:253 en/user_customization-runtime.ssi:261
+#: en/user_customization-runtime.ssi:269 en/user_customization-runtime.ssi:277
+#: en/user_customization-runtime.ssi:285 en/user_installation.ssi:38
+#: en/user_installation.ssi:48 en/user_installation.ssi:56
+#: en/user_installation.ssi:66 en/user_installation.ssi:74
+#: en/user_installation.ssi:82 en/user_installation.ssi:106
+#: en/user_installation.ssi:121 en/user_installation.ssi:134
+#: en/user_managing_a_configuration.ssi:22
+#: en/user_managing_a_configuration.ssi:32
+#: en/user_managing_a_configuration.ssi:55
+#: en/user_managing_a_configuration.ssi:67
+#: en/user_managing_a_configuration.ssi:76 en/user_overview.ssi:34
+#: en/user_overview.ssi:47 en/user_overview.ssi:55
+msgid "code{"
+msgstr "code{"
+
+#. type: Plain text
+#: en/about_manual.ssi:96 en/about_manual.ssi:104 en/about_manual.ssi:112
+#: en/about_manual.ssi:120 en/about_manual.ssi:128 en/about_manual.ssi:136
+#: en/appendix_style-guide.ssi:128 en/appendix_style-guide.ssi:138
+#: en/appendix_style-guide.ssi:148 en/appendix_style-guide.ssi:158
+#: en/appendix_style-guide.ssi:173 en/appendix_style-guide.ssi:182
+#: en/examples.ssi:20 en/examples.ssi:34 en/examples.ssi:44 en/examples.ssi:61
+#: en/examples.ssi:71 en/examples.ssi:89 en/examples.ssi:102
+#: en/examples.ssi:110 en/examples.ssi:118 en/examples.ssi:128
+#: en/examples.ssi:141 en/examples.ssi:153 en/examples.ssi:161
+#: en/examples.ssi:169 en/examples.ssi:177 en/examples.ssi:197
+#: en/examples.ssi:207 en/examples.ssi:215 en/examples.ssi:231
+#: en/examples.ssi:239 en/examples.ssi:253 en/examples.ssi:261
+#: en/examples.ssi:269 en/examples.ssi:289 en/examples.ssi:298
+#: en/examples.ssi:308 en/examples.ssi:324 en/project_bugs.ssi:66
+#: en/project_coding-style.ssi:36 en/project_coding-style.ssi:47
+#: en/project_coding-style.ssi:59 en/project_coding-style.ssi:70
+#: en/project_coding-style.ssi:98 en/project_coding-style.ssi:106
+#: en/project_coding-style.ssi:119 en/project_coding-style.ssi:130
+#: en/project_contributing.ssi:41 en/project_contributing.ssi:55
+#: en/project_contributing.ssi:64 en/project_contributing.ssi:73
+#: en/project_contributing.ssi:83 en/project_contributing.ssi:90
+#: en/project_git.ssi:12 en/project_git.ssi:20 en/project_git.ssi:28
+#: en/project_git.ssi:38 en/project_git.ssi:48 en/project_git.ssi:60
+#: en/project_procedures.ssi:47 en/project_procedures.ssi:92
+#: en/user_basics.ssi:54 en/user_basics.ssi:62 en/user_basics.ssi:72
+#: en/user_basics.ssi:91 en/user_basics.ssi:105 en/user_basics.ssi:117
+#: en/user_basics.ssi:125 en/user_basics.ssi:163 en/user_basics.ssi:171
+#: en/user_basics.ssi:184 en/user_basics.ssi:194 en/user_basics.ssi:202
+#: en/user_basics.ssi:214 en/user_basics.ssi:222 en/user_basics.ssi:230
+#: en/user_basics.ssi:242 en/user_basics.ssi:254 en/user_basics.ssi:264
+#: en/user_basics.ssi:274 en/user_basics.ssi:311 en/user_basics.ssi:323
+#: en/user_basics.ssi:339 en/user_basics.ssi:347 en/user_basics.ssi:374
+#: en/user_basics.ssi:394 en/user_basics.ssi:410
+#: en/user_customization-binary.ssi:25 en/user_customization-contents.ssi:29
+#: en/user_customization-contents.ssi:43 en/user_customization-contents.ssi:55
+#: en/user_customization-installer.ssi:38
+#: en/user_customization-installer.ssi:49
+#: en/user_customization-packages.ssi:18 en/user_customization-packages.ssi:26
+#: en/user_customization-packages.ssi:45 en/user_customization-packages.ssi:59
+#: en/user_customization-packages.ssi:71
+#: en/user_customization-packages.ssi:100
+#: en/user_customization-packages.ssi:110
+#: en/user_customization-packages.ssi:118
+#: en/user_customization-packages.ssi:143
+#: en/user_customization-packages.ssi:157
+#: en/user_customization-packages.ssi:167
+#: en/user_customization-packages.ssi:177
+#: en/user_customization-packages.ssi:201
+#: en/user_customization-packages.ssi:216
+#: en/user_customization-packages.ssi:294
+#: en/user_customization-packages.ssi:306
+#: en/user_customization-packages.ssi:316
+#: en/user_customization-packages.ssi:330
+#: en/user_customization-packages.ssi:355
+#: en/user_customization-packages.ssi:364 en/user_customization-runtime.ssi:18
+#: en/user_customization-runtime.ssi:30 en/user_customization-runtime.ssi:48
+#: en/user_customization-runtime.ssi:69 en/user_customization-runtime.ssi:79
+#: en/user_customization-runtime.ssi:88 en/user_customization-runtime.ssi:97
+#: en/user_customization-runtime.ssi:125 en/user_customization-runtime.ssi:135
+#: en/user_customization-runtime.ssi:144 en/user_customization-runtime.ssi:153
+#: en/user_customization-runtime.ssi:162 en/user_customization-runtime.ssi:180
+#: en/user_customization-runtime.ssi:206 en/user_customization-runtime.ssi:215
+#: en/user_customization-runtime.ssi:223 en/user_customization-runtime.ssi:233
+#: en/user_customization-runtime.ssi:241 en/user_customization-runtime.ssi:249
+#: en/user_customization-runtime.ssi:257 en/user_customization-runtime.ssi:265
+#: en/user_customization-runtime.ssi:273 en/user_customization-runtime.ssi:281
+#: en/user_customization-runtime.ssi:289 en/user_installation.ssi:42
+#: en/user_installation.ssi:52 en/user_installation.ssi:62
+#: en/user_installation.ssi:70 en/user_installation.ssi:78
+#: en/user_installation.ssi:86 en/user_installation.ssi:111
+#: en/user_installation.ssi:128 en/user_installation.ssi:139
+#: en/user_managing_a_configuration.ssi:28
+#: en/user_managing_a_configuration.ssi:43
+#: en/user_managing_a_configuration.ssi:61
+#: en/user_managing_a_configuration.ssi:72
+#: en/user_managing_a_configuration.ssi:80 en/user_overview.ssi:41
+#: en/user_overview.ssi:51 en/user_overview.ssi:59
+msgid "}code"
+msgstr "}code"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:2
+msgid ":B~ Customizing run time behaviours"
+msgstr ":B~ Personnalisation des comportements pendant l'exécution"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:4
+msgid "1~customizing-run-time-behaviours Customizing run time behaviours"
+msgstr ""
+"1~customizing-run-time-behaviours Personnalisation des comportements pendant "
+"l'exécution"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:6
+msgid ""
+"All configuration that is done during run time is done by live-config. Here "
+"are some of the most common options of live-config that users are interested "
+"in. A full list of all possibilities can be found in the man page of live-"
+"config."
+msgstr ""
+"Toute la configuration qui est faite pendant l'exécution est faite par live-"
+"config. Voici quelques options parmi les plus courantes de live-config qui "
+"peuvent intéresser les utilisateurs. Une liste complète de toutes les "
+"possibilités peut être trouvée dans la page de manuel de live-config."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:8
+msgid "2~ Customizing the live user"
+msgstr "2~ Personnalisation de l'utilisateur live"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:10
+msgid ""
+"One important consideration is that the live user is created by live-boot at "
+"boot time, not by live-build at build time. This not only influences where "
+"materials relating to the live user are introduced in your build, as "
+"discussed in {Live/chroot local includes}#live-chroot-local-includes, but "
+"also any groups and permissions associated with the live user."
+msgstr ""
+"Une considération importante est que l'utilisateur live est créé par live-"
+"boot au démarrage, non pas par live-config pendant la construction. Cela "
+"influence non seulement l'emplacement où les documents relatifs à "
+"l'utilisateur live sont introduits dans la construction, tel que discuté "
+"dans {Live/chroot local includes}#live-chroot-local-includes, mais aussi "
+"tous les groupes et autorisations associés à l'utilisateur live."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:12
+msgid ""
+"You can specify additional groups that the live user will belong to by using "
+"any of the possibilities to configure live-config. For example, to add the "
+"live user to the #{fuse}# group, you can either add the following file in "
+"#{config/includes.chroot/etc/live/config/user-setup.conf}#:"
+msgstr ""
+"Vous pouvez indiquer d'autres groupes pour l'utilisateur live en utilisant "
+"une des possibilités pour configurer live-config. Par exemple, pour ajouter "
+"l'utilisateur live au groupe #{fuse}#, vous pouvez ajouter le fichier "
+"suivant dans #{config/includes.chroot/etc/live/config/user-setup.conf}#:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:16
+#, no-wrap
+msgid " LIVE_USER_DEFAULT_GROUPS=\"audio cdrom dip floppy video plugdev netdev powerdev scanner bluetooth fuse\"\n"
+msgstr " LIVE_USER_DEFAULT_GROUPS=\"audio cdrom dip floppy video plugdev netdev powerdev scanner bluetooth fuse\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:20
+msgid ""
+"or use #{live-config.user-default-groups=audio,cdrom,dip,floppy,video,"
+"plugdev,netdev,powerdev,scanner,bluetooth,fuse}# as a boot parameter."
+msgstr ""
+"ou utiliser #{live-config.user-default-groups=audio,cdrom,dip,floppy,video,"
+"plugdev,netdev,powerdev,scanner,bluetooth,fuse}# comme paramètre d'amorçage."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:22
+msgid ""
+"It is also possible to change the default username \"user\" and the default "
+"password \"live\". If you want to do that for any reason, you can easily "
+"achieve it as follows:"
+msgstr ""
+"Il est également possible de changer le nom de l'utilisateur par défaut "
+"«user» et du mot de passe par défaut «live». Si vous voulez faire cela, vous "
+"pouvez le faire facilement comme suit:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:24
+msgid ""
+"To change the default username you can simply specify it in your config:"
+msgstr ""
+"Pour modifier le nom de l'utilisateur par défaut, vous pouvez simplement "
+"l'indiquer dans votre configuration:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:28
+#, no-wrap
+msgid " $ lb config --bootappend-live \"boot=live components username=live-user\"\n"
+msgstr " $ lb config --bootappend-live \"boot=live components username=live-user\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:32
+msgid ""
+"One possible way of changing the default password is by means of a hook as "
+"described in {Boot-time hooks}#boot-time-hooks. In order to do that you can "
+"use the \"passwd\" hook from #{/usr/share/doc/live-config/examples/hooks}#, "
+"prefix it accordingly (e.g. 2000-passwd) and add it to #{config/includes."
+"chroot/lib/live/config/}#"
+msgstr ""
+"Une façon possible de changer le mot de passe par défaut est d'utiliser un "
+"hook comme décrit dans {Hooks pendant le démarrage}#boot-time-hooks. Pour ce "
+"faire vous pouvez utiliser le hook \"passwd\" de #{/usr/share/doc/live-"
+"config/examples/hooks}#, ajouter un préfixe correct (par exemple 2000-"
+"passwd) et l'ajouter à #{config/includes.chroot/lib/live/config/}#"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:34
+msgid "2~customizing-locale-and-language Customizing locale and language"
+msgstr ""
+"2~customizing-locale-and-language Personnalisation des paramètres régionaux "
+"et de la langue"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:36
+msgid "When the live system boots, language is involved in two steps:"
+msgstr ""
+"Au démarrage du système live, la langue est impliquée dans deux étapes:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:38
+msgid "_* the locale generation"
+msgstr "_* la génération des paramètres régionaux"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:40
+msgid "_* setting the keyboard configuration"
+msgstr "_* le réglage de la disposition du clavier"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:42
+msgid ""
+"The default locale when building a Live system is #{locales=en_US.UTF-8}#. "
+"To define the locale that should be generated, use the #{locales}# parameter "
+"in the #{--bootappend-live}# option of #{lb config}#, e.g."
+msgstr ""
+"Les paramètres régionaux par défaut pendant la construction d'un système "
+"Live sont #{locales=en_US.UTF-8}#. Pour définir les paramètres régionaux qui "
+"doivent être générés, utilisez le paramètre #{locales}# dans l'option #{--"
+"bootappend-live}# de #{lb config}#, par exemple"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:46
+#, no-wrap
+msgid " $ lb config --bootappend-live \"boot=live components locales=de_CH.UTF-8\"\n"
+msgstr " $ lb config --bootappend-live \"boot=live components locales=de_CH.UTF-8\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:50
+msgid "Multiple locales may be specified as a comma-delimited list."
+msgstr ""
+"Plusieurs paramètres régionaux peuvent être indiqués dans une liste séparée "
+"par des virgules."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:52
+msgid ""
+"This parameter, as well as the keyboard configuration parameters indicated "
+"below, can also be used at the kernel command line. You can specify a locale "
+"by #{language_country}# (in which case the default encoding is used) or the "
+"full #{language_country.encoding}# word. A list of supported locales and the "
+"encoding for each can be found in #{/usr/share/i18n/SUPPORTED}#."
+msgstr ""
+"Ce paramètre, ainsi que les paramètres de configuration du clavier indiqués "
+"ci-dessous, peut également être utilisé sur la ligne de commande du noyau. "
+"On peut indiquer des paramètres régionaux avec #{language_country}# (dans ce "
+"cas, le codage par défaut est utilisé) ou l'expression complète "
+"#{language_country.encoding}#. Une liste des paramètres régionaux et le "
+"codage pour chacun peuvent être trouvés dans #{/usr/share/i18n/SUPPORTED}#."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:54
+msgid ""
+"Both the console and X keyboard configuration are performed by #{live-config}"
+"# using the #{console-setup}# package. To configure them, use the #{keyboard-"
+"layouts}#, #{keyboard-variants}#, #{keyboard-options}# and #{keyboard-model}"
+"# boot parameters via the #{--bootappend-live}# option. Valid options for "
+"these can be found in #{/usr/share/X11/xkb/rules/base.lst}#. To find layouts "
+"and variants for a given language, try searching for the English name of the "
+"language and/or the country where the language is spoken, e.g:"
+msgstr ""
+"La configuration du clavier pour la console et pour X est faite par #{live-"
+"config}# en utilisant le paquet #{console-setup}#. Pour les configurer, "
+"utilisez les paramètres de démarrage #{keyboard-layouts}#, #{keyboard-"
+"variants}#, #{keyboard-options}# et #{keyboard-model}# avec l'option #{--"
+"bootappend-live}#. On peut trouver les options valides dans #{/usr/share/X11/"
+"xkb/rules/base.lst}#. Pour trouver les dispositions et les variantes "
+"correspondantes à une langue, essayez de rechercher le nom anglais de la "
+"nation où la langue est parlée, par exemple:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:67
+#, no-wrap
+msgid ""
+"$ egrep -i '(^!|german.*switzerland)' /usr/share/X11/xkb/rules/base.lst\n"
+" ! model\n"
+" ! layout\n"
+"   ch              German (Switzerland)\n"
+" ! variant\n"
+"   legacy          ch: German (Switzerland, legacy)\n"
+"   de_nodeadkeys   ch: German (Switzerland, eliminate dead keys)\n"
+"   de_sundeadkeys  ch: German (Switzerland, Sun dead keys)\n"
+"   de_mac          ch: German (Switzerland, Macintosh)\n"
+" ! option\n"
+msgstr ""
+"$ egrep -i '(^!|german.*switzerland)' /usr/share/X11/xkb/rules/base.lst\n"
+" ! model\n"
+" ! layout\n"
+"   ch              German (Switzerland)\n"
+" ! variant\n"
+"   legacy          ch: German (Switzerland, legacy)\n"
+"   de_nodeadkeys   ch: German (Switzerland, eliminate dead keys)\n"
+"   de_sundeadkeys  ch: German (Switzerland, Sun dead keys)\n"
+"   de_mac          ch: German (Switzerland, Macintosh)\n"
+" ! option\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:71
+msgid ""
+"Note that each variant lists the layout to which it applies in the "
+"description."
+msgstr "Chaque variante présente une description de la disposition appliquée."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:73
+msgid ""
+"Often, only the layout needs to be configured. For example, to get the "
+"locale files for German and Swiss German keyboard layout in X use:"
+msgstr ""
+"Souvent, seule la disposition doit être configurée. Par exemple, pour "
+"obtenir les fichiers des paramètres régionaux de l'allemand et la "
+"disposition du clavier suisse allemand dans X, utilisez:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:77
+#, no-wrap
+msgid " $ lb config --bootappend-live \"boot=live components locales=de_CH.UTF-8 keyboard-layouts=ch\"\n"
+msgstr " $ lb config --bootappend-live \"boot=live components locales=de_CH.UTF-8 keyboard-layouts=ch\"\n"
+
+# Notes:
+# Add Note
+#
+# Extracted comments:
+# type: Plain text
+#
+#. type: Plain text
+#: en/user_customization-runtime.ssi:81
+msgid ""
+"However, for very specific use cases, you may wish to include other "
+"parameters. For example, to set up a French system with a French-Dvorak "
+"layout (called Bepo) on a TypeMatrix EZ-Reach 2030 USB keyboard, use:"
+msgstr ""
+"Toutefois, pour les cas d'utilisation très spécifiques, on peut inclure "
+"d'autres paramètres. Par exemple, pour mettre en place un système français "
+"avec une disposition French-Dvorak (Bépo) avec un clavier USB TypeMatrix EZ-"
+"Reach 2030, utilisez:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:86
+#, no-wrap
+msgid ""
+" $ lb config --bootappend-live \\\n"
+"     \"boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr keyboard-variants=bepo keyboard-model=tm2030usb\"\n"
+msgstr ""
+" $ lb config --bootappend-live \\\n"
+"     \"boot=live components locales=fr_FR.UTF-8 keyboard-layouts=fr keyboard-variants=bepo keyboard-model=tm2030usb\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:90
+msgid ""
+"Multiple values may be specified as comma-delimited lists for each of the "
+"#{keyboard-*}# options, with the exception of #{keyboard-model}#, which "
+"accepts only one value. Please see the #{keyboard(5)}# man page for details "
+"and examples of #{XKBMODEL}#, #{XKBLAYOUT}#, #{XKBVARIANT}# and #{XKBOPTIONS}"
+"# variables. If multiple #{keyboard-variants}# values are given, they will "
+"be matched one-to-one with #{keyboard-layouts}# values (see #{setxkbmap(1)}# "
+"#{-variant}# option). Empty values are allowed; e.g. to define two layouts, "
+"the default being US QWERTY and the other being US Dvorak, use:"
+msgstr ""
+"Plusieurs valeurs peuvent être indiquées dans des listes séparées par des "
+"virgules pour chacune des options #{keyboard-*}#, à l'exception de "
+"#{keyboard-model}# qui accepte une seule valeur. Veuillez consulter la page "
+"de manuel #{keyboard(5)}# pour plus de détails et des exemples des variables "
+"#{XKBMODEL}#, #{XKBLAYOUT}#, #{XKBVARIANT}# et #{XKBOPTIONS}#. Si plusieurs "
+"valeurs #{keyboard-variants}# sont données, elles seront jumelées une à une "
+"avec les valeurs #{keyboard-layouts}# (voir #{setxkbmap(1)}# option #{-"
+"variant}#). On peut utiliser des valeurs vides; par exemple pour régler deux "
+"dispositions, une par défaut US QWERTY et l'autre US Dvorak, utilisez:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:95
+#, no-wrap
+msgid ""
+" $ lb config --bootappend-live \\\n"
+"     \"boot=live components keyboard-layouts=us,us keyboard-variants=,dvorak\"\n"
+msgstr ""
+" $ lb config --bootappend-live \\\n"
+"     \"boot=live components keyboard-layouts=us,us keyboard-variants=,dvorak\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:99
+msgid "2~persistence Persistence"
+msgstr "2~persistence Persistance"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:101
+msgid ""
+"A live cd paradigm is a pre-installed system which runs from read-only "
+"media, like a cdrom, where writes and modifications do not survive reboots "
+"of the host hardware which runs it."
+msgstr ""
+"Le paradigme d'un Live CD est d'être un système pré-installé qui amorce sur "
+"un support en lecture seule, comme un cdrom, où les données et les "
+"modifications ne survivent pas aux redémarrages du matériel hôte qui "
+"l'exécute."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:103
+msgid ""
+"A live system is a generalization of this paradigm and thus supports other "
+"media in addition to CDs; but still, in its default behaviour, it should be "
+"considered read-only and all the run-time evolutions of the system are lost "
+"at shutdown."
+msgstr ""
+"Un système live est une généralisation de ce paradigme et gère ainsi "
+"d'autres supports en plus de CDs. Malgré tout, dans son comportement par "
+"défaut, il doit être considéré en lecture seule et toutes les évolutions "
+"pendant l'exécution du système sont perdues à l'arrêt."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:105
+msgid ""
+"'Persistence' is a common name for different kinds of solutions for saving "
+"across reboots some, or all, of this run-time evolution of the system. To "
+"understand how it works it would be handy to know that even if the system is "
+"booted and run from read-only media, modifications to the files and "
+"directories are written on writable media, typically a ram disk (tmpfs) and "
+"ram disks' data do not survive reboots."
+msgstr ""
+"La «persistance» est un nom commun pour les différents types de solutions "
+"pour sauver, après un redémarrage, certaines ou toutes les données, de cette "
+"évolution pendant l'exécution du système. Pour comprendre comment cela "
+"fonctionne, il peut être utile de savoir que même si le système est démarré "
+"et exécuté à partir d'un support en lecture seule, les modifications des "
+"fichiers et répertoires sont écrites sur des supports inscriptibles, "
+"typiquement un disque ram (tmpfs) et les données des disques RAM ne "
+"survivent pas à un redémarrage."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:107
+msgid ""
+"The data stored on this ramdisk should be saved on a writable persistent "
+"medium like local storage media, a network share or even a session of a "
+"multisession (re)writable CD/DVD. All these media are supported in live "
+"systems in different ways, and all but the last one require a special boot "
+"parameter to be specified at boot time: #{persistence}#."
+msgstr ""
+"Les données stockées sur ce disque virtuel doivent être enregistrées sur un "
+"support inscriptible persistant comme un support de stockage local, un "
+"partage réseau ou même une séance d'un CD/DVD multisession (ré)inscriptible. "
+"Tous ces supports sont pris en charge dans les systèmes live de différentes "
+"manières, et tous, à part le dernier, nécessitent un paramètre d'amorçage "
+"spécial à préciser au moment du démarrage: #{persistence}#."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:109
+msgid ""
+"If the boot parameter #{persistence}# is set (and #{nopersistence}# is not "
+"set), local storage media (e.g. hard disks, USB drives) will be probed for "
+"persistence volumes during boot. It is possible to restrict which types of "
+"persistence volumes to use by specifying certain boot parameters described "
+"in the live-boot(7) man page. A persistence volume is any of the following:"
+msgstr ""
+"Si le paramètre de démarrage #{persistence}# est réglé (et #{nopersistence}# "
+"n'est pas utilisé), les supports de stockage locaux (par exemple les disques "
+"durs, clés USB) seront examinés pour trouver des volumes persistants pendant "
+"le démarrage. Il est possible de limiter les types de volumes persistants à "
+"utiliser en indiquant certains paramètres de démarrage décrits dans la page "
+"de manuel live-boot(7). Un volume persistant est un des éléments suivants:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:111
+msgid "_* a partition, identified by its GPT name."
+msgstr "_* une partition, identifiée par son nom GPT."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:113
+msgid "_* a filesystem, identified by its filesystem label."
+msgstr ""
+"_* un système de fichiers, identifié par son étiquette de système de "
+"fichiers."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:115
+msgid ""
+"_* an image file located on the root of any readable filesystem (even an "
+"NTFS partition of a foreign OS), identified by its filename."
+msgstr ""
+"_* un fichier image situé sur la racine d'un système de fichiers en lecture "
+"(même une partition NTFS d'un système d'exploitation étranger), identifié "
+"par son nom de fichier."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:117
+msgid ""
+"The volume label for overlays must be #{persistence}# but it will be ignored "
+"unless it contains in its root a file named #{persistence.conf}# which is "
+"used to fully customize the volume's persistence, this is to say, specifying "
+"the directories that you want to save in your persistence volume after a "
+"reboot. See {The persistence.conf file}#persistence-conf for more details."
+msgstr ""
+"L'étiquette du volume pour les overlays doit être #{persistence}# mais elle "
+"sera ignorée à moins de contenir dans sa racine un fichier nommé "
+"#{persistence.conf}# qui est utilisé pour personnaliser entièrement la "
+"persistance du volume, c'est-à-dire indiquer les répertoires que vous voulez "
+"sauvegarder dans votre volume de persistance après un redémarrage. Voir {Le "
+"fichier persistence.conf}#persistence-conf pour plus de détails."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:119
+msgid ""
+"Here are some examples of how to prepare a volume to be used for "
+"persistence. It can be, for instance, an ext4 partition on a hard disk or on "
+"a usb key created with, e.g.:"
+msgstr ""
+"Voici quelques exemples montrant comment préparer un volume à utiliser pour "
+"la persistance. Cela peut être, par exemple, une partition ext4 sur un "
+"disque dur ou sur une clé usb créée avec:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:123
+#, no-wrap
+msgid " # mkfs.ext4 -L persistence /dev/sdb1\n"
+msgstr " # mkfs.ext4 -L persistence /dev/sdb1\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:127
+msgid "See also {Using the space left on a USB stick}#using-usb-extra-space."
+msgstr ""
+"Voir aussi {Utilisation de l'espace disponible sur une clé USB}#using-usb-"
+"extra-space."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:129
+msgid ""
+"If you already have a partition on your device, you could just change the "
+"label with one of the following:"
+msgstr ""
+"Si vous avez déjà une partition sur votre périphérique, vous pouvez "
+"simplement modifier l'étiquette avec l'un des exemples suivants:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:133
+#, no-wrap
+msgid " # tune2fs -L persistence /dev/sdb1 # for ext2,3,4 filesystems\n"
+msgstr " # tune2fs -L persistence /dev/sdb1 # for ext2,3,4 filesystems\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:137
+msgid ""
+"Here's an example of how to create an ext4-based image file to be used for "
+"persistence:"
+msgstr ""
+"Voici un exemple montrant comment créer un fichier image avec un système de "
+"fichiers ext4 pour être utilisé pour la persistance:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:142
+#, no-wrap
+msgid ""
+" $ dd if=/dev/null of=persistence bs=1 count=0 seek=1G # for a 1GB sized image file\n"
+" $ /sbin/mkfs.ext4 -F persistence\n"
+msgstr ""
+" $ dd if=/dev/null of=persistence bs=1 count=0 seek=1G # for a 1GB sized image file\n"
+" $ /sbin/mkfs.ext4 -F persistence\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:146
+msgid ""
+"Once the image file is created, as an example, to make #{/usr}# persistent "
+"but only saving the changes you make to that directory and not all the "
+"contents of #{/usr}#, you can use the \"union\" option. If the image file is "
+"located in your home directory, copy it to the root of your hard drive's "
+"filesystem and mount it in #{/mnt}# as follows:"
+msgstr ""
+"Une fois que le fichier image est créé, à titre d'exemple, pour rendre #{/"
+"usr}# persistant mais seulement enregistrer les modifications que vous "
+"apportez à ce répertoire et non pas tout le contenu de #{/usr}#, vous pouvez "
+"utiliser l'option «union». Si le fichier image se trouve dans votre "
+"répertoire personnel, copiez-le à la racine du système de fichiers de votre "
+"disque dur et montez-le dans #{/mnt}# comme suit:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:151
+#, no-wrap
+msgid ""
+" # cp persistence /\n"
+" # mount -t ext4 /persistence /mnt\n"
+msgstr ""
+" # cp persistence /\n"
+" # mount -t ext4 /persistence /mnt\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:155
+msgid ""
+"Then, create the #{persistence.conf}# file adding content and unmount the "
+"image file."
+msgstr ""
+"Ensuite, créez le fichier #{persistence.conf}# ajoutant du contenu et "
+"démontez le fichier image."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:160
+#, no-wrap
+msgid ""
+" # echo \"/usr union\" >> /mnt/persistence.conf\n"
+" # umount /mnt\n"
+msgstr ""
+" # echo \"/usr union\" >> /mnt/persistence.conf\n"
+" # umount /mnt\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:164
+msgid ""
+"Now, reboot into your live medium with the boot parameter \"persistence\"."
+msgstr ""
+"Maintenant, redémarrez dans votre support live avec le paramètre de "
+"démarrage \"persistence\"."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:166
+msgid "3~persistence-conf The persistence.conf file"
+msgstr "3~persistence-conf Le fichier persistence.conf"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:168
+msgid ""
+"A volume with the label #{persistence}# must be configured by means of the "
+"#{persistence.conf}# file to make arbitrary directories persistent. That "
+"file, located on the volume's filesystem root, controls which directories it "
+"makes persistent, and in which way."
+msgstr ""
+"Un volume ayant l'étiquette #{persistence}# doit être configuré avec un "
+"fichier #{persistence.conf}# pour créer des répertoires persistants "
+"arbitraires. Ce fichier, situé sur le système de fichiers racine du volume, "
+"contrôle quels répertoires il rend persistants, et de quelle manière."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:170
+msgid ""
+"How custom overlay mounts are configured is described in full detail in the "
+"persistence.conf(5) man page, but a simple example should be sufficient for "
+"most uses. Let's say we want to make our home directory and APT cache "
+"persistent in an ext4 filesystem on the /dev/sdb1 partition:"
+msgstr ""
+"La façon de configurer les montages overlays est décrite en détail dans la "
+"page de manuel persistence.conf(5), mais un simple exemple devrait suffire "
+"pour la plupart des utilisations. Imaginons que nous voulions rendre notre "
+"répertoire personnel et APT cache persistants dans un système de fichiers "
+"ext4 sur la partition /dev/sdb1:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:178
+#, no-wrap
+msgid ""
+" # mkfs.ext4 -L persistence /dev/sdb1\n"
+" # mount -t ext4 /dev/sdb1 /mnt\n"
+" # echo \"/home\" >> /mnt/persistence.conf\n"
+" # echo \"/var/cache/apt\" >> /mnt/persistence.conf\n"
+" # umount /mnt\n"
+msgstr ""
+" # mkfs.ext4 -L persistence /dev/sdb1\n"
+" # mount -t ext4 /dev/sdb1 /mnt\n"
+" # echo \"/home\" >> /mnt/persistence.conf\n"
+" # echo \"/var/cache/apt\" >> /mnt/persistence.conf\n"
+" # umount /mnt\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:182
+msgid ""
+"Then we reboot. During the first boot the contents of #{/home}# and #{/var/"
+"cache/apt}# will be copied into the persistence volume, and from then on all "
+"changes to these directories will live in the persistence volume. Please "
+"note that any paths listed in the #{persistence.conf}# file cannot contain "
+"white spaces or the special #{.}# and #{..}# path components. Also, neither "
+"#{/lib}#, #{/lib/live}# (or any of their sub-directories) nor #{/}# can be "
+"made persistent using custom mounts. As a workaround for this limitation you "
+"can add #{/ union}# to your #{persistence.conf}# file to achieve full "
+"persistence."
+msgstr ""
+"Puis nous redémarrons. Lors du premier démarrage, les contenus du #{/home}# "
+"et #{/var/cache/apt}# seront copiés dans le volume persistant. À partir de "
+"ce moment, tous les changements dans ces répertoires seront stockés dans le "
+"volume persistant. Veuiller remarquer que les chemins répertoriés dans le "
+"fichier #{persistence.conf}# ne peuvent pas contenir d'espaces ou d'éléments "
+"spéciaux #{.}# et #{..}#. En outre, ni #{/lib}#, #{/lib/live}# (ou un de "
+"leurs sous-répertoires), ni #{/}# ne peuvent être rendus persistants en "
+"utilisant des montages personnalisés. Comme solution à cette limitation, "
+"vous pouvez ajouter #{/ union}# à votre fichier #{persistence.conf}# pour "
+"obtenir une persistance complète."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:184
+msgid "3~ Using more than one persistence store"
+msgstr "3~ Utilisation de plusieurs dispositifs de persistance"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:186
+msgid ""
+"There are different methods of using multiple persistence store for "
+"different use cases. For instance, using several volumes at the same time or "
+"selecting only one, among various, for very specific purposes."
+msgstr ""
+"Il existe différentes méthodes d'utilisation de multiples dispositifs de "
+"persistance pour les différents cas d'utilisation. Par exemple, utiliser "
+"plusieurs dispositifs à la fois ou en sélectionner un seul, entre plusieurs, "
+"à des fins très spécifiques."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:188
+msgid ""
+"Several different custom overlay volumes (with their own #{persistence.conf}"
+"# files) can be used at the same time, but if several volumes make the same "
+"directory persistent, only one of them will be used. If any two mounts are "
+"\"nested\" (i.e. one is a sub-directory of the other) the parent will be "
+"mounted before the child so no mount will be hidden by the other. Nested "
+"custom mounts are problematic if they are listed in the same #{persistence."
+"conf}# file. See the persistence.conf(5) man page for how to handle that "
+"case if you really need it (hint: you usually don't)."
+msgstr ""
+"Plusieurs volumes overlays différents (avec leurs propres fichiers "
+"#{persistence.conf}#) peuvent être utilisés au même temps, mais si plusieurs "
+"volumes rendent le même répertoire persistant, un seul d'entre eux sera "
+"utilisé. Si les deux sont «imbriqués» (un est un sous-répertoire de l'autre) "
+"le premier sera monté avant le second de sorte qu'aucun ne sera caché par "
+"l'autre. Monter des éléments personnalisés imbriqués est problématique s'ils "
+"sont énumérés dans le même fichier #{persistence.conf}#. Voir la page de "
+"manuel persistence.conf(5) pour savoir comment gérer ce cas si vous en avez "
+"vraiment besoin (remarque: ce n'est généralement pas le cas)."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:190
+msgid ""
+"One possible use case: If you wish to store the user data i.e. #{/home}# and "
+"the superuser data i.e. #{/root}# in different partitions, create two "
+"partitions with the #{persistence}# label and add a #{persistence.conf}# "
+"file in each one like this, #{# echo \"/home\" > persistence.conf}# for the "
+"first partition that will save the user's files and #{# echo \"/root\" > "
+"persistence.conf}# for the second partition which will store the superuser's "
+"files. Finally, use the #{persistence}# boot parameter."
+msgstr ""
+"Un cas d'utilisation possible: Si vous souhaitez stocker les données de "
+"l'utilisateur, c'est-à-dire #{/home}# et les données du superutilisateur, "
+"c'est-à-dire #{/root}# dans des partitions différentes, créer deux "
+"partitions avec l'étiquette #{persistence}# et ajouter un fichier "
+"#{persistence.conf}# dans chacun comme ça #{# echo \"/home\" > persistence."
+"conf}# pour la première partition qui permettra de sauver les fichiers de "
+"l'utilisateur et #{# echo \"/root\" > persistence.conf}# pour la seconde "
+"partition qui permettra de stocker les fichiers du superutilisateur. Enfin, "
+"utiliser le paramètre d'amorçage #{persistence}#."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:192
+msgid ""
+"If a user would need multiple persistence store of the same type for "
+"different locations or testing, such as #{private}# and #{work}#, the boot "
+"parameter #{persistence-label}# used in conjunction with the boot parameter "
+"#{persistence}# will allow for multiple but unique persistence media. An "
+"example would be if a user wanted to use a persistence partition labeled "
+"#{private}# for personal data like browser bookmarks or other types, they "
+"would use the boot parameters: #{persistence}# #{persistence-label=private}"
+"#. And to store work related data, like documents, research projects or "
+"other types, they would use the boot parameters: #{persistence}# "
+"#{persistence-label=work}#."
+msgstr ""
+"Si un utilisateur a besoin de stockages persistants multiples du même type "
+"pour différents endroits ou essais, tel que #{private}# et #{work}#, le "
+"paramètre de démarrage #{persistence-label}# utilisé en conjonction avec le "
+"paramètre de démarrage #{persistence}# permettra de multiples mais uniques "
+"supports persistants. Dans le cas où un utilisateur voudrait utiliser une "
+"partition persistante étiquetée #{private}#, pour des données personelles "
+"comme les marque-pages du navigateur ou d'autres types, il utiliserait les "
+"paramètres de démarrage: #{persistence}# #{persistence-label=private}#. Et "
+"pour stocker des données liées au travail, comme des documents, des projets "
+"de recherche ou d'autres types, il utiliserait les paramètres de démarrage: "
+"#{persistence}# #{persistence-label=work}#."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:194
+msgid ""
+"It is important to remember that each of these volumes, #{private}# and "
+"#{work}#, also needs a #{persistence.conf}# file in its root. The live-boot "
+"man page contains more information about how to use these labels with legacy "
+"names."
+msgstr ""
+"Il est important de se rappeler que chacun de ces volumes, #{private}# et "
+"#{work}#, a également besoin d'un fichier #{persistence.conf}# dans sa "
+"racine. La page de manuel live-boot contient plus d'informations sur la "
+"façon d'utiliser ces étiquettes avec des noms ancients."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:196
+msgid "3~ Using persistence with encryption"
+msgstr "3~ Utilisation de la persistance avec chiffrement"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:198
+msgid ""
+"Using the persistence feature means that some sensible data might get "
+"exposed to risk. Especially if the persistent data is stored on a portable "
+"device such as a usb stick or an external hard drive. That is when "
+"encryption comes in handy. Even if the entire procedure might seem "
+"complicated because of the number of steps to be taken, it is really easy to "
+"handle encrypted partitions with live-boot. In order to use *{luks}*, which "
+"is the supported encryption type, you need to install /{cryptsetup}/ both on "
+"the machine you are creating the encrypted partition with and also in the "
+"live system you are going to use the encrypted persistent partition with."
+msgstr ""
+"Utiliser la persistance signifie que certaines données sensibles peuvent "
+"être exposées au risque. Surtout si les données persistantes sont stockées "
+"sur un dispositif portable tel qu'une clé USB ou un disque dur externe. "
+"C'est quand le chiffrement est plus pratique. Même si la procédure complète "
+"peut paraître compliquée en raison du nombre d'étapes à suivre, il est "
+"vraiment facile de manipuler des partitions chiffrées avec live-boot. Pour "
+"utiliser *{luks}*, qui est le type de chiffrement pris en charge, vous devez "
+"installer /{cryptsetup}/ tant sur la machine avec laquelle vous créez la "
+"partition chiffrée et aussi dans le système live avec lequel vous allez "
+"utiliser la partition persistante chiffrée."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:200
+msgid "To install /{cryptsetup}/ on your machine:"
+msgstr "Pour installer /{cryptsetup}/ sur votre machine:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:204
+#, no-wrap
+msgid " # apt-get install cryptsetup\n"
+msgstr " # apt-get install cryptsetup\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:208
+msgid ""
+"To install /{cryptsetup}/ in your live system, add it to your package-lists:"
+msgstr ""
+"Pour installer /{cryptsetup}/ dans votre système live, ajouter à vos listes "
+"de paquets:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:213
+#, no-wrap
+msgid ""
+" $ lb config\n"
+" $ echo \"cryptsetup\" > config/package-lists/encryption.list.chroot\n"
+msgstr ""
+" $ lb config\n"
+" $ echo \"cryptsetup\" > config/package-lists/encryption.list.chroot\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:217
+msgid ""
+"Once you have your live system with /{cryptsetup}/, you basically only need "
+"to create a new partition, encrypt it and boot with the #{persistence}# and "
+"#{persistence-encryption=luks}# parameters. We could have already "
+"anticipated this step and added the boot parameters following the usual "
+"procedure:"
+msgstr ""
+"Une fois que vous avez votre système live avec /{cryptsetup}/, vous avez "
+"essentiellement besoin de créer une nouvelle partition, la chiffrer et "
+"démarrer avec les paramètres #{persistence}# et #{persistence-"
+"encryption=luks}#. Nous aurions pu déjà anticipée cette étape et ajoutée ces "
+"paramètres de démarrage selon la procédure habituelle:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:221
+#, no-wrap
+msgid " $ lb config --bootappend-live \"boot=live components persistence persistence-encryption=luks\"\n"
+msgstr " $ lb config --bootappend-live \"boot=live components persistence persistence-encryption=luks\"\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:225
+msgid ""
+"Let's go into the details for all of those who are not familiar with "
+"encryption. In the following example we are going to use a partition on a "
+"usb stick which corresponds to #{/dev/sdc2}#. Please be warned that you need "
+"to determine which partition is the one you are going to use in your "
+"specific case."
+msgstr ""
+"Allons dans les détails pour tous ceux qui ne connaissent pas bien le "
+"chiffrement. Dans l'exemple suivant, nous allons utiliser une partition sur "
+"une clé usb qui correspond au dispositif #{/dev/sdc2}#. S'il vous plaît être "
+"averti que vous devez déterminer quelle partition est celui que vous allez "
+"utiliser dans votre cas particulier."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:227
+msgid ""
+"The first step is plugging in your usb stick and determine which device it "
+"is. The recommended method of listing devices in live-manual is using #{ls -"
+"l /dev/disk/by-id}#. After that, create a new partition and then, encrypt it "
+"with a passphrase as follows:"
+msgstr ""
+"La première étape est de brancher votre clé usb et de déterminer quel "
+"dispositif il est. La méthode recommandée pour lister les dispositifs dans "
+"live-manual est utiliser #{ls -l /dev/disk/by-id}#. Après cela, créer une "
+"nouvelle partition et la chiffrer avec un mot de passe comme suit:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:231
+#, no-wrap
+msgid " # cryptsetup --verify-passphrase luksFormat /dev/sdc2\n"
+msgstr " # cryptsetup --verify-passphrase luksFormat /dev/sdc2\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:235
+msgid ""
+"Then open the luks partition in the virtual device mapper. Use any name you "
+"like. We use *{live}* here as an example:"
+msgstr ""
+"Ensuite, ouvrir la partition luks dans le mappeur de dispositifs virtuel. "
+"Utilisez n'importe quel nom que vous aimez. Nous utilisons *{live}* ici à "
+"titre d'exemple:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:239
+#, no-wrap
+msgid " # cryptsetup luksOpen /dev/sdc2 live\n"
+msgstr " # cryptsetup luksOpen /dev/sdc2 live\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:243
+msgid ""
+"The next step is filling the device with zeros before creating the "
+"filesystem:"
+msgstr ""
+"La prochaine étape est de remplir le dispositif avec des zéros avant de "
+"créer le système de fichiers:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:247
+#, no-wrap
+msgid " # dd if=/dev/zero of=/dev/mapper/live\n"
+msgstr " # dd if=/dev/zero of=/dev/mapper/live\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:251
+msgid ""
+"Now, we are ready to create the filesystem. Notice that we are adding the "
+"label #{persistence}# so that the device is mounted as persistence store at "
+"boot time."
+msgstr ""
+"Maintenant, nous sommes prêts à créer le système de fichiers. Notez que nous "
+"ajoutons l'étiquette #{persistence}# de sorte que le dispositif est monté en "
+"tant que magasin de persistance au moment du démarrage."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:255
+#, no-wrap
+msgid " # mkfs.ext4 -L persistence /dev/mapper/live\n"
+msgstr " # mkfs.ext4 -L persistence /dev/mapper/live\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:259
+msgid ""
+"To continue with our setup, we need to mount the device, for example in #{/"
+"mnt}#."
+msgstr ""
+"Pour continuer avec notre configuration, nous avons besoin de monter le "
+"dispositif, par exemple dans #{/mnt}#."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:263
+#, no-wrap
+msgid " # mount /dev/mapper/live /mnt\n"
+msgstr " # mount /dev/mapper/live /mnt\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:267
+msgid ""
+"And create the #{persistence.conf}# file in the root of the partition. This "
+"is, as explained before, strictly necessary. See {The persistence.conf file}"
+"#persistence-conf."
+msgstr ""
+"Et créer le fichier #{persistence.conf}# à la racine de la partition. Ceci "
+"est, comme expliqué précédemment, strictement nécessaire. Voir {Le fichier "
+"persistence.conf}#persistence-conf."
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:271
+#, no-wrap
+msgid " # echo \"/ union\" > /mnt/persistence.conf\n"
+msgstr " # echo \"/ union\" > /mnt/persistence.conf\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:275
+msgid "Then unmount the mount point:"
+msgstr "Puis, démontez le point de montage:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:279
+#, no-wrap
+msgid " # umount /mnt\n"
+msgstr " # umount /mnt\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:283
+msgid ""
+"And optionally, although it might be a good way of securing the data we have "
+"just added to the partition, we can close the device:"
+msgstr ""
+"Et éventuellement, bien qu'il pourrait être un bon moyen de sécuriser les "
+"données que nous venons d'ajouter à la partition, nous pouvons fermer le "
+"dispositif:"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:287
+#, no-wrap
+msgid " # cryptsetup luksClose live\n"
+msgstr " # cryptsetup luksClose live\n"
+
+#. type: Plain text
+#: en/user_customization-runtime.ssi:290
+msgid ""
+"Let's summarize the process. So far, we have created an encryption capable "
+"live system, which can be copied to a usb stick as explained in {Copying an "
+"ISO hybrid image to a USB stick}#copying-iso-hybrid-to-usb. We have also "
+"created an encrypted partition, which can be located in the same usb stick "
+"to carry it around and we have configured the encrypted partition to be used "
+"as persistence store. So now, we only need to boot the live system. At boot "
+"time, live-boot will prompt us for the passphrase and will mount the "
+"encrypted partition to be used for persistence."
+msgstr ""
+"Résumons la procédure. Jusqu'ici nous avons créé un système capable "
+"d'utiliser le chiffrement, qui peut être copié sur une clé usb comme "
+"expliqué dans {Copie d'une image ISO hybride sur une clé USB}#copying-iso-"
+"hybrid-to-usb. Nous avons également créé une partition chiffrée, qui peut "
+"être située dans la même clé USB pour le porter autour et nous avons "
+"configuré la partition chiffrée pour être utilisée comme magasin de "
+"persistance. Alors maintenant, nous avons seulement besoin de démarrer le "
+"système live. Au moment du démarrage, live-boot nous demandera le mot de "
+"passe pour monter la partition chiffrée à être utilisé pour la persistance."

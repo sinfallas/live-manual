@@ -1,0 +1,299 @@
+# French translations for live-manual
+# Copyright (C) 2011-2015 Carlos Zuferri <chals@altorricon.com>
+# This file is distributed under the same license as the live-manual package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: live-manual 4.0~a4-1\n"
+"POT-Creation-Date: 2014-09-01 03:37+0900\n"
+"PO-Revision-Date: 2013-12-04 20:19+0100\n"
+"Last-Translator: Carlos Zuferri <chals@altorricon.com>\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: en/about_project.ssi:2
+msgid ":B~ About the ${project}"
+msgstr ":B~ À propos du ${project}"
+
+#. type: Plain text
+#: en/about_project.ssi:4
+msgid "1~about-project About the ${project}"
+msgstr "1~about-project À propos du ${project}"
+
+#. type: Plain text
+#: en/about_project.ssi:6
+msgid "2~ Motivation"
+msgstr "2~ Motivation"
+
+#. type: Plain text
+#: en/about_project.ssi:8
+msgid "3~ What is wrong with current live systems"
+msgstr "3~ Ce qui ne va pas avec les systèmes live actuels"
+
+#. type: Plain text
+#: en/about_project.ssi:10
+msgid ""
+"When ${project} was initiated, there were already several Debian based live "
+"systems available and they are doing a great job. From the Debian "
+"perspective most of them have one or more of the following disadvantages:"
+msgstr ""
+"Lorsque le ${project} a été lancé, il y avait déjà plusieurs systèmes live "
+"basés sur Debian et ils faisaient un excellent travail. Du point de vue de "
+"Debian, la plupart d'entre eux ont un ou plusieurs des inconvénients "
+"suivants:"
+
+#. type: Plain text
+#: en/about_project.ssi:12
+msgid ""
+"_* They are not Debian projects and therefore lack support from within "
+"Debian."
+msgstr ""
+"_* Ce ne sont pas des projets Debian et ils manquent donc de soutien au sein "
+"de Debian. "
+
+#. type: Plain text
+#: en/about_project.ssi:14
+msgid "_* They mix different distributions, e.g. *{testing}* and *{unstable}*."
+msgstr ""
+"_* Ils mélangent des distributions différentes comme *{testing}* et "
+"*{unstable}*."
+
+#. type: Plain text
+#: en/about_project.ssi:16
+msgid "_* They support i386 only."
+msgstr "_* Ils ne prennent en charge que i386."
+
+#. type: Plain text
+#: en/about_project.ssi:18
+msgid ""
+"_* They modify the behaviour and/or appearance of packages by stripping them "
+"down to save space."
+msgstr ""
+"_* Ils modifient le comportement et/ou l'apparence des paquets en les "
+"dépouillant pour économiser de l'espace."
+
+#. type: Plain text
+#: en/about_project.ssi:20
+msgid "_* They include packages from outside of the Debian archive."
+msgstr "_* Ils comprennent des paquets ne provenant pas de l'archive Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:22
+msgid ""
+"_* They ship custom kernels with additional patches that are not part of "
+"Debian."
+msgstr ""
+"_* Ils offrent des noyaux personnalisés avec des correctifs supplémentaires "
+"qui ne font pas partie de Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:24
+msgid ""
+"_* They are large and slow due to their sheer size and thus not suitable for "
+"rescue issues."
+msgstr ""
+"_* Ils sont gros et lents en raison de leur dimension et donc pas "
+"recommandés comme systèmes de sauvetage."
+
+#. type: Plain text
+#: en/about_project.ssi:26
+msgid ""
+"_* They are not available in different flavours, e.g. CDs, DVDs, USB-stick "
+"and netboot images."
+msgstr ""
+"_* Ils ne sont pas disponibles en différents formats (CDs, DVDs, clés USB et "
+"images netboot)."
+
+#. type: Plain text
+#: en/about_project.ssi:28
+msgid "3~ Why create our own live system?"
+msgstr "3~ Pourquoi créer notre propre système live?"
+
+#. type: Plain text
+#: en/about_project.ssi:30
+msgid ""
+"Debian is the Universal Operating System: Debian has a live system to show "
+"around and to accurately represent the Debian system with the following main "
+"advantages:"
+msgstr ""
+"Debian est le système d'exploitation universel: Debian a un système live "
+"pour servir de vitrine et pour représenter le vrai, seul et unique système "
+"Debian avec les principaux avantages suivants:"
+
+#. type: Plain text
+#: en/about_project.ssi:32
+msgid "_* It is a subproject of Debian."
+msgstr "_* C'est un sous-projet de Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:34
+msgid "_* It reflects the (current) state of one distribution."
+msgstr "_* Il reflète l'état (actuel) d'une distribution."
+
+#. type: Plain text
+#: en/about_project.ssi:36
+msgid "_* It runs on as many architectures as possible."
+msgstr "_* Il fonctionne sur le plus grand nombre d'architectures possible."
+
+#. type: Plain text
+#: en/about_project.ssi:38
+msgid "_* It consists of unchanged Debian packages only."
+msgstr "_* Il ne se compose que de paquets Debian inchangés."
+
+#. type: Plain text
+#: en/about_project.ssi:40
+msgid "_* It does not contain any packages that are not in the Debian archive."
+msgstr ""
+"_* Il ne contient pas de paquets qui n'appartenant pas à l'archive Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:42
+msgid "_* It uses an unaltered Debian kernel with no additional patches."
+msgstr ""
+"_* Il utilise un noyau Debian inchangé, sans correctifs supplémentaires."
+
+#. type: Plain text
+#: en/about_project.ssi:44
+msgid "2~ Philosophy"
+msgstr "2~ Philosophie"
+
+#. type: Plain text
+#: en/about_project.ssi:46
+msgid "3~ Only unchanged packages from Debian \"main\""
+msgstr "3~ Seulement des paquets inchangés de Debian «main»"
+
+#. type: Plain text
+#: en/about_project.ssi:48
+msgid ""
+"We will only use packages from the Debian repository in the \"main\" "
+"section. The non-free section is not part of Debian and therefore cannot be "
+"used for official live system images."
+msgstr ""
+"Nous n'utiliserons que les paquets du dépôt Debian dans la section «main». "
+"La section non-free ne fait pas partie de Debian et ne peut donc pas être "
+"utilisée pour les images officielles du système live."
+
+#. type: Plain text
+#: en/about_project.ssi:50
+msgid ""
+"We will not change any packages. Whenever we need to change something, we "
+"will do that in coordination with its package maintainer in Debian."
+msgstr ""
+"Nous ne changerons pas les paquets. Chaque fois que nous aurons besoin de "
+"changer quelque chose, nous le ferons en coordination avec le responsable du "
+"paquet dans Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:52
+msgid ""
+"As an exception, our own packages such as live-boot, live-build or live-"
+"config may temporarily be used from our own repository for development "
+"reasons (e.g. to create development snapshots). They will be uploaded to "
+"Debian on a regular basis."
+msgstr ""
+"À titre d'exception, nos propres paquets tels que live-boot, live-build ou "
+"live-config peuvent être utilisés temporairement à partir de notre propre "
+"dépôt pour des raisons de développement (par exemple pour créer des "
+"instantanés de développement). Ils seront téléchargés sur Debian "
+"régulièrement."
+
+#. type: Plain text
+#: en/about_project.ssi:54
+msgid "3~ No package configuration of the live system"
+msgstr "3~ Pas de configuration des paquets du système live"
+
+#. type: Plain text
+#: en/about_project.ssi:56
+msgid ""
+"In this phase we will not ship or install sample or alternative "
+"configurations. All packages are used in their default configuration as they "
+"are after a regular installation of Debian."
+msgstr ""
+"Dans cette phase, nous n'offrirons pas de configurations alternatives. Tous "
+"les paquets sont utilisés dans leur configuration par défaut comme ils sont "
+"après une installation standard de Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:58
+msgid ""
+"Whenever we need a different default configuration, we will do that in "
+"coordination with its package maintainer in Debian."
+msgstr ""
+"Chaque fois que nous aurons besoin d'une configuration par défaut "
+"différente, nous la ferons en coordination avec le responsable du paquet "
+"dans Debian."
+
+#. type: Plain text
+#: en/about_project.ssi:60
+msgid ""
+"A system for configuring packages is provided using debconf allowing custom "
+"configured packages to be installed in your custom produced live system "
+"images, but for the {prebuilt live images}#downloading-prebuilt-images we "
+"choose to leave packages in their default configuration, unless absolutely "
+"necessary in order to work in the live environment. Wherever possible, we "
+"prefer to adapt packages within the Debian archive to work better in a live "
+"system versus making changes to the live toolchain or {prebuilt image "
+"configurations}#clone-configuration-via-git. For more information, please "
+"see {Customization overview}#customization-overview."
+msgstr ""
+"Un système de configuration des paquets est fourni avec debconf permettant "
+"la personnalisation des paquets installés sur vos images live, mais pour les "
+"{images live précompilées}#downloading-prebuilt-images seulement une "
+"configuration par défaut sera utilisée sauf si c'est absolument nécessaire "
+"pour fonctionner dans l'environnement live. Autant que possible, nous "
+"préférons adapter les paquets dans l'archive Debian de sorte qu'ils "
+"fonctionnent mieux dans un système live plutôt que faire des changements à "
+"l'ensemble d'outils live ou les {configurations des images live}#clone-"
+"configuration-via-git. Pour plus d'informations, veuillez consulter {Vue "
+"d'ensemble de la personnalisation}#customization-overview."
+
+#. type: Plain text
+#: en/about_project.ssi:62
+msgid "2~contact Contact"
+msgstr "2~contact Contact"
+
+#. type: Plain text
+#: en/about_project.ssi:64
+msgid ""
+"_* *{Mailing list}*: The primary contact for the project is the mailing list "
+"at https://lists.debian.org/debian-live/. You can email the list directly by "
+"addressing your mail to debian-live@lists.debian.org. The list archives are "
+"available at https://lists.debian.org/debian-live/."
+msgstr ""
+"_* *{Liste de diffusion}*: Le contact principal du projet est la liste de "
+"diffusion https://lists.debian.org/debian-live/. Vous pouvez envoyer un "
+"courriel à la liste directement en adressant votre courrier à debian-"
+"live@lists.debian.org. Les archives de la liste sont disponibles sur https://"
+"lists.debian.org/debian-live/."
+
+#. type: Plain text
+#: en/about_project.ssi:66
+msgid ""
+"_* *{IRC}*: A number of users and developers are present in the #debian-live "
+"channel on irc.debian.org (OFTC). When asking a question on IRC, please be "
+"patient for an answer. If no answer is forthcoming, please email the mailing "
+"list."
+msgstr ""
+"_* *{IRC}*: Un certain nombre d'utilisateurs et de développeurs sont "
+"présents dans le canal #debian-live sur irc.debian.org (OFTC). Quand vous "
+"posez une question sur IRC, s'il vous plaît soyez patient en attendant une "
+"réponse. Si aucune réponse n'est donnée, veuillez envoyer un courriel à la "
+"liste de diffusion."
+
+#. type: Plain text
+#: en/about_project.ssi:67
+msgid ""
+"_* *{BTS}*: The {Debian Bug Tracking System}https://www.debian.org/Bugs/ "
+"(BTS) contains details of bugs reported by users and developers. Each bug is "
+"given a number, and is kept on file until it is marked as having been dealt "
+"with. For more information, please see {Reporting bugs}#bugs."
+msgstr ""
+"_* *{BTS}*: Le {Système de suivi des bogues}https://www.debian.org/Bugs/ "
+"(BTS) contient les détails des bogues signalés par les utilisateurs et les "
+"développeurs. Chaque bogue reçoit un numéro et est conservé jusqu'à ce qu'il "
+"soit marqué comme traité. Pour plus d'informations, veuillez consulter "
+"{Rapporter des bogues}#bugs."

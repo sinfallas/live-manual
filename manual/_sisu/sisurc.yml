@@ -1,0 +1,74 @@
+# Name: SiSU - Simple information Structuring Universe
+# Author: ralph@amissah.com
+# Description: Site wide environment defaults set here
+# system environment info / resource configuration file, for sisu
+# License: GPL v3 or later
+#   site environment configuration file
+#   this file should be configured and live in
+#      /etc/sisu     #per environment settings, overridden by:
+#      ~/.sisu       #per user settings, overridden by:
+#     ./_sisu        #per local markup directory settings
+#% #image source directory, main path and subdirectories
+#image:
+#  path:         'sisu_working'
+#  public:       '_sisu/image'
+#  #all:           'image'
+
+#% presentation/web directory, main path and subdirectories (most subdirectories are created automatically based on markup directory name)
+webserv:
+  url_root:     'http://live-systems.org' #without dir stub
+  path:          '../build'
+#  images:       '_sisu/image'
+#  man:          'man'
+#  cgi:          '/usr/lib/cgi-bin'
+
+show_output_on: 'filesystem_url'
+
+#% papersize, (LaTeX/pdf) available values: A4, US_letter, book_b5, book_a5, US_legal
+default:
+  papersize:    'a4,letter'
+
+#% output_dir_structure_by: language (language_and_filetype); filetype; or filename (original v1 & v2)
+output_dir_structure_by: filetype
+#% lingual: 'multi' | 'mono' (multi default)
+#lingual: mono
+
+permission_set:
+  zap:               true
+  css_modify:        true
+#  remote_base_site:  true
+
+program_set:
+  rmagick:       false
+#  wc:           true
+#  editor:       true
+#  postgresql:   true
+#  sqlite:       true
+#  tidy:         true
+#  rexml:        true
+#  pdflatex:     true
+
+#program_select:
+#  editor:              'vim'
+#  pdf_viewer:          'evince'
+#  web_browser:         'iceweasel'
+#  console_web_browser: 'links2' #'elinks' #'w3m' #'lynx' #'links'
+#  odf_viewer:          'lowriter' #'oowriter' #'abiword'
+#  xml_viewer:          'xml-viewer'
+#  epub_viewer:         'ebook-viewer' #'calibre' #'fbreader' #'okular'
+#  info_viewer:         'pinfo -f'
+#  man:                 'man' #'groff -man -Tascii' # 'nroff -man'
+
+#% search form
+search:
+  sisu:
+    flag:            true
+    action:          http://live-systems.org/manual/git/search.cgi
+    db:              manual
+    title:           Live Manual Search Form
+
+omit:
+  links_to_manifest: true
+#  html_navigation: true
+
+#omit_list: html_navigation manifest_links

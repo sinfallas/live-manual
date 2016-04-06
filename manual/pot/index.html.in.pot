@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the live-manual package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: live-manual 5.0~a2-1\n"
+"POT-Creation-Date: 2015-08-23 11:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Content of: <html><head><title>
+#: en/index.html.in:4
+msgid "Live Systems Project"
+msgstr ""
+
+#. type: Content of: <html><body><h2>
+#: en/index.html.in:9
+msgid "Live Systems Manual"
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:12
+msgid ""
+"<i>live-manual</i> is available in different file formats and it is "
+"translated into several languages. Keep in mind that some translations may "
+"be incomplete or may not be up to date."
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:17
+msgid ""
+"Please report errors, omissions, patches and suggestions to our mailing list "
+"at <a href=\"mailto:debian-live@lists.debian.org\">debian-live@lists.debian."
+"org</a> and read about <a href=\"html/live-manual.en.html#how-to-contribute"
+"\">how to contribute</a> to the manual."
+msgstr ""
+
+#. type: Content of: <html><body><h3>
+#: en/index.html.in:20
+msgid "Available Formats"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:23
+msgid "<a href=\"epub/live-manual.en.epub\">EPUB</a>"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:24
+msgid ""
+"HTML: <a href=\"html/live-manual/toc.en.html\">multi page</a>, <a href="
+"\"html/live-manual.en.html\">single page</a>"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:25
+msgid "<a href=\"odt/live-manual.en.odt\">ODF</a>"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:26
+msgid ""
+"PDF: <a href=\"pdf/live-manual.portrait.en.a4.pdf\">A4 portrait</a>, <a href="
+"\"pdf/live-manual.landscape.en.a4.pdf\">A4 landscape</a>, <a href=\"pdf/live-"
+"manual.portrait.en.letter.pdf\">letter portrait</a>, <a href=\"pdf/live-"
+"manual.landscape.en.letter.pdf\">letter landscape</a>"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:27
+msgid "<a href=\"txt/live-manual.en.txt\">Plain text</a>"
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:31
+msgid "Last changed: @DATE_CHANGE@"
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:32
+msgid "Last built: @DATE_BUILD@"
+msgstr ""
+
+#. type: Content of: <html><body><h3>
+#: en/index.html.in:35
+msgid "<a href=\"search.cgi\">Search</a>"
+msgstr ""
+
+#. type: Content of: <html><body><h3>
+#: en/index.html.in:37
+msgid "Source"
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:40
+msgid ""
+"The sources for this manual are available in a <a href=\"http://git-scm.com/"
+"\">Git</a> repository at live-systems.org."
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:44
+msgid ""
+"Browse: <a href=\"http://live-systems.org/gitweb/?p=live-manual.git"
+"\"><small><tt>http://live-systems.org/gitweb/?p=live-manual.git</tt></"
+"small></a>"
+msgstr ""
+
+#. type: Content of: <html><body><ul><li>
+#: en/index.html.in:45
+msgid ""
+"Git: <a href=\"git://live-systems.org/git/live-manual.git\"><small><tt>git://"
+"live-systems.org/git/live-manual.git</tt></small></a>"
+msgstr ""
+
+#. type: Content of: <html><body><p>
+#: en/index.html.in:49
+msgid ""
+"<a href=\"http://live-systems.org/\">Live Systems Project</a> &lt;<a href="
+"\"mailto:debian-live@lists.debian.org\">debian-live@lists.debian.org</a>&gt; "
+"- <a href=\"http://live-systems.org/project/legal/\">Legal Information</a>"
+msgstr ""

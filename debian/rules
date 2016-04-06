@@ -1,0 +1,33 @@
+#!/usr/bin/make -f
+
+%:
+	dh ${@} --parallel
+
+override_dh_auto_build:
+	mkdir -p debian/build/locale
+	localedef -f UTF-8 -i en_US debian/build/locale/en_US.UTF-8
+
+	LOCPATH=$(CURDIR)/debian/build/locale LC_ALL=en_US.UTF-8 dh_auto_build
+
+override_dh_auto_clean:
+	dh_auto_clean
+
+	rm -rf debian/build
+
+override_dh_auto_install:
+	dh_auto_install
+
+	# Removing useless files
+	rm -f debian/tmp/usr/share/doc/live-manual/COPYING
+	rm -f debian/tmp/usr/share/doc/live-manual/_sisu/image/.empty
+	rm -f debian/tmp/usr/share/doc/live-manual/pdf/live-manual.landscape.pdf
+	rm -f debian/tmp/usr/share/doc/live-manual/pdf/live-manual.portrait.pdf
+
+override_dh_builddeb:
+	dh_builddeb -- -Zxz
+
+override_dh_compress:
+	dh_compress -X.epub -X.html -X.odt
+
+override_dh_install:
+	dh_install --fail-missing
